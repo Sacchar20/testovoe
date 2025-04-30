@@ -59,7 +59,6 @@ Performance metrics printed in console.
 Charts and plots saved to the output/ folder.
 
 
-
 Project Structure
 
 project/
@@ -79,7 +78,8 @@ project/
 │   └── historical_data.parquet
 ├── results/
 │   ├── metrics.csv
-│   └── screenshots/strategy1_equity.png
+│   └── screenshots/
+│       └── strategy1_equity.png
 ├── main.py
 ├── requirements.txt
 └── README.md
