@@ -1,0 +1,25 @@
+# Ограничитель асинхронных запросов
+aiolimiter
+
+# Работа с массивами и таблицами
+numpy
+pandas
+
+# Графики и визуализация
+matplotlib
+seaborn
+plotly
+kaleido  # для сохранения графиков Plotly в PNG
+
+# Паркет и хранение
+pyarrow
+
+# Binance API
+python-binance
+
+# Технический анализ и бэктестинг
+ta
+vectorbt
+
+# Тестирование
+pytest
