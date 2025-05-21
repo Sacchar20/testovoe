@@ -136,16 +136,12 @@ Please follow PEP8 and include tests for new functionality.
 
 📊 Результати окремо по кожній стратегії
 1. SMA Crossover Strategy
-Total Return: -59.05% (!)
-
-Win Rate: 16.83%
-
-Max Drawdown: 59.05%
-
-Sharpe Ratio: -80.53
-
-Profit Factor: 0.23
-
+Total Return: -58.11% 🔻
+Win Rate: 17.32%
+Max Drawdown: 58.12%
+Sharpe Ratio: -78.73
+Profit Factor: 0.25
+Expectancy: -0.47
 Expectancy: -0.52
 
 🔎 Висновок:
@@ -154,17 +150,12 @@ Expectancy: -0.52
 
 
 2. RSI + Bollinger Bands Strategy
-Total Return: +33.50%
-
-Win Rate: 52.61%
-
-Max Drawdown: 14.87%
-
-Sharpe Ratio: 16.66
-
-Profit Factor: 1.50
-
-Expectancy: 0.20
+Total Return: +19.87% ✅
+Win Rate: 51.80%
+Max Drawdown: 15.89%
+Sharpe Ratio: 10.04
+Profit Factor: 1.29
+Expectancy: 0.11
 
 🔎 Висновок:
 Стратегія показала хороший результат: позитивна дохідність, досить високий відсоток виграшних угод (>50%), прийнятний ризик (просадка < 15%).
@@ -172,17 +163,12 @@ Expectancy: 0.20
 
 
 3. VWAP Reversion Strategy
-Total Return: +46.43%
-
-Win Rate: 61.20%
-
-Max Drawdown: 14.46%
-
-Sharpe Ratio: 21.36
-
-Profit Factor: 1.89
-
-Expectancy: 0.45
+Total Return: +39.71% 🥇
+Win Rate: 61.99%
+Max Drawdown: 16.21%
+Sharpe Ratio: 17.67
+Profit Factor: 1.77
+Expectancy: 0.37
 
 🔎 Висновок:
 Найкращий результат серед усіх трьох стратегій. Висока дохідність, хороша стабільність (більше 61% виграшних угод), дуже низька максимальна просадка і сильні метрики ризику/прибутку (Profit Factor близько 2).
