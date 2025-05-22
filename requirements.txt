@@ -1,25 +1,17 @@
-# Ограничитель асинхронных запросов
-aiolimiter
-
-# Работа с массивами и таблицами
-numpy
-pandas
-
-# Графики и визуализация
-matplotlib
-seaborn
-plotly
-kaleido  # для сохранения графиков Plotly в PNG
-
-# Паркет и хранение
-pyarrow
-
-# Binance API
-python-binance
-
-# Технический анализ и бэктестинг
-ta
-vectorbt
-
-# Тестирование
-pytest
+pandas==2.2.3
+numpy==2.2.4
+matplotlib==3.10.1
+seaborn==0.13.2
+plotly==5.24.1
+pyarrow==19.0.1
+tqdm==4.67.1
+requests==2.32.3
+python-binance==1.0.28
+ta==0.11.0
+vectorbt==0.27.2
+aiolimiter==1.2.1
+aiohttp==3.11.16
+async-timeout==5.0.1
+schedule==1.2.2
+pytest==8.3.5
+dateparser==1.2.1
