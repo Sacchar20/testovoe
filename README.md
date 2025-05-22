@@ -1,3 +1,9 @@
+## 📈 Отчёт по стратегиям
+
+[Открыть отчёт в браузере](https://sacchar20.github.io/testovoe/report.html)
+
+
+
 Trading Strategy Backtester
 
 A Python framework for designing, backtesting, and analyzing technical-analysis-based trading strategies. It supports popular indicators like SMA and RSI, integrates with Binance for historical data, and provides rich visualizations of your strategy's performance.
