@@ -70,8 +70,8 @@ project/
 ├── results/
 │   ├── trades/
 │   │   └── *.csv
-│   ├── cash/
-│   │   └── *.csv
+│   ├── top5_pairs_each_strategy/
+│   │   └── *.png
 │   ├── stats/
 │   │   └── *.csv
 │   └── heatmap.png
