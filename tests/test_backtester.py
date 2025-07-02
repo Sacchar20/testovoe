@@ -39,7 +39,7 @@ def dummy_df():
 
 def test_run_multi_strategy_returns_portfolio(dummy_df):
     """
-    Тестирует, что run_multi_strategy возвращает объект портфеля с методом stats().
+    Тестирует, что run_multi_strategy возвращает объект портфеля с методом stats().!
 
     Args:
         dummy_df (pd.DataFrame): Фиктивные данные для стратегии.
