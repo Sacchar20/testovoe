@@ -1,4 +1,4 @@
-# 📊 Trading Strategy Backtester
+# 📊 Trading Strategy Backtester!
 
 A Python framework for designing, backtesting, and analyzing technical-analysis-based trading strategies.  
 It supports popular indicators like SMA, RSI, VWAP, integrates with Binance, and generates rich HTML reports.
