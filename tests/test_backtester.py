@@ -12,7 +12,7 @@ def dummy_df():
     Фикстура: создаёт фиктивный DataFrame с данными по двум символам (BTCUSDT, ETHBTC).
 
     Возвращает:
-        pd.DataFrame: Мультииндексный DataFrame с синусоидальными ценами для тестирования.
+        pd.DataFrame: Мультииндексный DataFrame с синусоидальными ценами для тестирования.!
     """
     dates = pd.date_range("2025-02-01", periods=100, freq="1min")
     symbols = ["BTCUSDT", "ETHBTC"]
